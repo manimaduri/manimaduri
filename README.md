@@ -1,4 +1,4 @@
-#  Hi there! I'm [Your Name]
+#  Hi there! I'm Manikanta
 
 I'm a recent graduate (B.Tech. ECE - 2023) with a strong focus on frontend development. My passion lies in crafting performant and user-friendly interfaces using Next.js, React, and Redux Toolkit.
 
@@ -33,7 +33,7 @@ I'm particularly adept at leveraging Next.js for its server-side rendering (SSR)
 
 **Connect With Me:**
 
-* [[LinkedIn Profile URL]](https://www.linkedin.com/in/manikanta-maduri/) 
+* [[LinkedIn Profile URL]](https://www.linkedin.com/in/manikanta-maduri/)
 
 
 **Let's build something amazing together!**
